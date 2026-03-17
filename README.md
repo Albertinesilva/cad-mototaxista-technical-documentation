@@ -1,7 +1,9 @@
-# 🏍️ CAD-MOTOTAXISTA  
+# 🏍️ CAD-MOTOTAXISTA
+
 ## Documentação Técnica – Sistema de Gestão Pública
 
 ---
+
 ## 🚀 Visão Geral
 
 O **CAD-MOTOTAXISTA** é um sistema web desenvolvido como Trabalho de Conclusão de Curso (TCC) no curso de **Análise e Desenvolvimento de Sistemas do Instituto Federal da Bahia (IFBA)**.
@@ -10,12 +12,12 @@ O projeto surgiu a partir de uma demanda real da **Secretaria Municipal de Trân
 
 A solução foi concebida para estruturar, digitalizar e organizar processos administrativos relacionados a:
 
-- Cadastro de profissionais  
-- Emissão e controle de alvarás  
-- Regularização documental  
-- Fiscalização administrativa  
-- Controle de vencimentos e validações  
-- Organização e rastreabilidade de informações  
+- Cadastro de profissionais
+- Emissão e controle de alvarás
+- Regularização documental
+- Fiscalização administrativa
+- Controle de vencimentos e validações
+- Organização e rastreabilidade de informações
 
 O desenvolvimento foi orientado por princípios de engenharia de software, organização arquitetural e aplicabilidade em ambiente institucional.
 
@@ -25,17 +27,17 @@ O desenvolvimento foi orientado por princípios de engenharia de software, organ
 
 Antes da implementação do sistema:
 
-- Processos predominantemente manuais  
-- Controle documental descentralizado  
-- Dificuldade de fiscalização  
-- Baixa rastreabilidade de informações  
+- Processos predominantemente manuais
+- Controle documental descentralizado
+- Dificuldade de fiscalização
+- Baixa rastreabilidade de informações
 
 Com o CAD-MOTOTAXISTA:
 
-- Centralização estruturada dos dados  
-- Modelagem relacional consistente  
-- Organização das regras de negócio  
-- Base sólida para apoio à decisão administrativa  
+- Centralização estruturada dos dados
+- Modelagem relacional consistente
+- Organização das regras de negócio
+- Base sólida para apoio à decisão administrativa
 
 ---
 
@@ -45,13 +47,13 @@ Este repositório contém **exclusivamente a documentação técnica** do projet
 
 Aqui estão reunidos os principais artefatos que fundamentam a solução, incluindo:
 
-- Arquitetura do sistema  
-- Tecnologias utilizadas  
-- Modelagem relacional  
-- Diagramas UML  
-- Estrutura de banco de dados (DDL)  
-- Evidências de validação  
-- Trechos ilustrativos de código  
+- Arquitetura do sistema
+- Tecnologias utilizadas
+- Modelagem relacional
+- Diagramas UML
+- Estrutura de banco de dados (DDL)
+- Evidências de validação
+- Trechos ilustrativos de código
 
 O código-fonte completo do sistema encontra-se em repositório distinto.
 
@@ -81,25 +83,25 @@ A documentação aqui apresentada permite compreender as decisões arquiteturais
 
 ### 📦 Arquitetura, Tecnologias e Listagens
 
-| Apêndice | Descrição | Acesso |
-|----------|------------|--------|
-| **APÊNDICE C** | Tecnologias utilizadas e versões aplicadas | [Acessar](https://github.com/Albertinesilva/Cad-Mototaxista-Documentacao-Tecnica/blob/main/apendice-c/APENDICE_C.md) |
+| Apêndice       | Descrição                                  | Acesso                                                                                                                  |
+| -------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| **APÊNDICE C** | Tecnologias utilizadas e versões aplicadas | [Acessar](https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-c/APENDICE_C.md) |
 
 ---
 
 ### ✅ Evidências de Validação
 
-| Apêndice | Descrição | Acesso |
-|----------|------------|--------|
-| **APÊNDICE D** | Testes, validações e evidências funcionais do sistema | [Acessar](https://github.com/Albertinesilva/Cad-Mototaxista-Documentacao-Tecnica/blob/main/apendice-d/APENDICE_D.md) |
+| Apêndice       | Descrição                                             | Acesso                                                                                                                  |
+| -------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **APÊNDICE D** | Testes, validações e evidências funcionais do sistema | [Acessar](https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-d/APENDICE_D.md) |
 
 ---
 
 ### 🗄️ Modelagem e Engenharia de Dados
 
-| Apêndice | Descrição | Acesso |
-|----------|------------|--------|
-| **APÊNDICE E** | Modelagem relacional, DDL e diagramas UML | [Acessar](https://github.com/Albertinesilva/Cad-Mototaxista-Documentacao-Tecnica/blob/main/apendice-e/APENDICE_E.md) |
+| Apêndice       | Descrição                                 | Acesso                                                                                                                  |
+| -------------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **APÊNDICE E** | Modelagem relacional, DDL e diagramas UML | [Acessar](https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-e/APENDICE_E.md) |
 
 ---
 
@@ -107,13 +109,13 @@ A documentação aqui apresentada permite compreender as decisões arquiteturais
 
 Este projeto evidencia:
 
-- Aplicação prática de backend em ambiente institucional  
-- Organização arquitetural aplicada a problema real  
-- Modelagem de banco de dados relacional  
-- Estruturação e encapsulamento de regras de negócio  
-- Controle documental e validações administrativas  
-- Clareza estrutural e padronização técnica  
-- Produção de documentação técnica consistente  
+- Aplicação prática de backend em ambiente institucional
+- Organização arquitetural aplicada a problema real
+- Modelagem de banco de dados relacional
+- Estruturação e encapsulamento de regras de negócio
+- Controle documental e validações administrativas
+- Clareza estrutural e padronização técnica
+- Produção de documentação técnica consistente
 
 Não se trata apenas de um projeto acadêmico, mas de uma solução aplicada à modernização da gestão pública municipal.
 
@@ -125,10 +127,10 @@ O CAD-MOTOTAXISTA representa uma aplicação concreta de engenharia de software 
 
 O projeto demonstra:
 
-- Conversão de processos manuais em fluxos digitais  
-- Organização estruturada de dados institucionais  
-- Suporte técnico à fiscalização e regularização  
-- Aplicação de tecnologia como instrumento de gestão pública  
+- Conversão de processos manuais em fluxos digitais
+- Organização estruturada de dados institucionais
+- Suporte técnico à fiscalização e regularização
+- Aplicação de tecnologia como instrumento de gestão pública
 
 ---
 
@@ -147,7 +149,7 @@ Consulte o arquivo [`LICENSE`](LICENSE) para informações completas.
 ## 👨‍💻 Autor
 
 **Albert Silva de Jesus**  
-Desenvolvedor Backend Java | Spring Boot  
+Desenvolvedor Backend Java | Spring Boot
 
 ---
 
@@ -162,4 +164,3 @@ Desenvolvedor Backend Java | Spring Boot
 
 Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC)  
 Instituto Federal da Bahia (IFBA).
-

@@ -28,17 +28,17 @@ O Apêndice E apresenta os artefatos fundamentais relacionados à modelagem rela
     </tr>
     <tr align="center">
       <td>E.1 – Controle de Versões de Banco de Dados com Flyway</td>
-      <td><a href="https://github.com/Albertinesilva/Cad-Mototaxista-Documentacao-Tecnica/tree/main/apendice-e/migration">Scripts de Migração</a></td>
+      <td><a href="https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/tree/main/apendice-e/migration">Scripts de Migração</a></td>
       <td>Versionamento do BD</td>
     </tr>
     <tr align="center">
       <td>E.2 – Estrutura DDL do Banco de Dados</td>
-      <td><a href="https://github.com/Albertinesilva/Cad-Mototaxista-Documentacao-Tecnica/blob/main/apendice-e/DDL/E2_Estrutura_DDL_PostgreSQL.md">Estrutura DDL</a></td>
+      <td><a href="https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-e/DDL/E2_Estrutura_DDL_PostgreSQL.md">Estrutura DDL</a></td>
       <td>Definição das tabelas</td>
     </tr>
     <tr align="center">
       <td>E.2.1 – Diagrama do Banco de Dados</td>
-      <td><a href="https://github.com/Albertinesilva/Cad-Mototaxista-Documentacao-Tecnica/blob/main/apendice-e/diagramas/E2-1_modelo_relacional.md">Modelo Relacional</a></td>
+      <td><a href="https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-e/diagramas/E2-1_modelo_relacional.md">Modelo Relacional</a></td>
       <td>Visualização estrutural</td>
     </tr>
     <!-- UML -->
@@ -47,17 +47,17 @@ O Apêndice E apresenta os artefatos fundamentais relacionados à modelagem rela
     </tr>
     <tr align="center">
       <td>E.3 – Diagrama de Caso de Uso</td>
-      <td><a href="https://github.com/Albertinesilva/Cad-Mototaxista-Documentacao-Tecnica/blob/main/apendice-e/diagramas/E3_caso_de_uso.md"> UML – Caso de Uso</a></td>
+      <td><a href="https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-e/diagramas/E3_caso_de_uso.md"> UML – Caso de Uso</a></td>
       <td>Requisitos funcionais</td>
     </tr>
     <tr align="center">
       <td>E.4 – Diagrama de Classes</td>
-      <td><a href="https://github.com/Albertinesilva/Cad-Mototaxista-Documentacao-Tecnica/blob/main/apendice-e/diagramas/E4_classes.md"> UML – Classes</a></td>
+      <td><a href="https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-e/diagramas/E4_classes.md"> UML – Classes</a></td>
       <td>Modelagem de entidades</td>
     </tr>
     <tr align="center">
       <td>E.5 – Diagrama de Pacotes</td>
-      <td><a href="https://github.com/Albertinesilva/Cad-Mototaxista-Documentacao-Tecnica/blob/main/apendice-e/diagramas/E5_pacotes.md">UML – Pacotes (MVC)</a></td>
+      <td><a href="https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-e/diagramas/E5_pacotes.md">UML – Pacotes (MVC)</a></td>
       <td>Organização modular</td>
     </tr>
   </tbody>
@@ -68,7 +68,7 @@ O Apêndice E apresenta os artefatos fundamentais relacionados à modelagem rela
 ## 👨‍💻 Autor
 
 **Albert Silva de Jesus**  
-Desenvolvedor Backend Java | Spring Boot  
+Desenvolvedor Backend Java | Spring Boot
 
 ---
 
@@ -85,8 +85,8 @@ Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC)
 Instituto Federal da Bahia (IFBA).
 
 ---
+
 <p align="center">
   <a href="../apendice-d/APENDICE_D.md">⬅ Apêndice Anterior</a> |
   <a href="../README.md">🏠 Início</a>
 </p>
-
