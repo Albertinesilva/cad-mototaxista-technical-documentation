@@ -34,7 +34,7 @@ O Apêndice D reúne algumas das principais evidências de validação do sistem
     </tr>
     <tr align="center">
       <td>D.2 – JMeter</td>
-      <td><a href="https://github.com/cad-mototaxista-technical-documentation/blob/main/apendice-d/jmeter/D2_Apache_JMeter.md">Relatórios de Desempenho</a></td>
+      <td><a href="https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-d/jmeter/D2_Apache_JMeter.md">Relatórios de Desempenho</a></td>
       <td>Testes de carga</td>
     </tr>
     <tr align="center">
