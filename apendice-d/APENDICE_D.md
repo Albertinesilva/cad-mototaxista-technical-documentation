@@ -44,12 +44,12 @@ O Apêndice D reúne algumas das principais evidências de validação do sistem
     </tr>
     <tr align="center">
       <td>D.4 – Códigos de Resposta HTTP</td>
-      <td><a href="https://github.com/cad-mototaxista-technical-documentation/blob/main/apendice-d/resposta-http/D4_autorizacao.md">Status HTTP</a></td>
+      <td><a href="https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-d/resposta-http/D4_autorizacao.md">Status HTTP</a></td>
       <td>Validação de acesso</td>
     </tr>
     <tr align="center">
       <td>D.5 – BCrypt</td>
-      <td><a href="https://github.com/cad-mototaxista-technical-documentation/blob/main/apendice-d/bcryp/D5_Hash-gerado%20.md">Hash gerado com BCrypt</a></td>
+      <td><a href="https://github.com/Albertinesilva/cad-mototaxista-technical-documentation/blob/main/apendice-d/bcryp/D5_Hash-gerado%20.md">Hash gerado com BCrypt</a></td>
       <td>Criptografia de senhas</td>
     </tr>
   </tbody>
